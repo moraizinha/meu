@@ -1,4 +1,4 @@
-# meu origame e artesanato
+# origame e artesanato
 um site voltado a artesanato e origames 
 onde ensina o passo a passo de como fazer um origame 
 no layout o site tera imagens de origames você será enviado para uma pagina onde você será ensinado a fazer aquele origame/artesanato
